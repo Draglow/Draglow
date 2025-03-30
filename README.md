@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
   <section>
             <h2>Connect with Me</h2>
             <ul> <li>🔭Instagram: https://www.instagram.com/love_yourz21 </li>
-                <li>📫 Email: draglow21@gmail.com</li>
+                <li>📫 Email: devdereje21@gmail.com</li>
             </ul>
                
                 
