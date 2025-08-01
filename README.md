@@ -56,6 +56,12 @@ From **custom eCommerce platforms** to **automated business agents**, I create t
 **DevOps:** Docker · GitHub Actions · Render · Railway  
 **Methodologies:** Clean Architecture · API-First Design · MVP to Scale
 
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,postgresql,tailwind,docker,git,linux,html,js" alt="Tech Stack Icons" />
+</p>
+
+
 ---
 
 <!-- GITHUB STATS -->
