@@ -22,20 +22,20 @@
 ---
 
 <!-- ABOUT -->
-### 🚀 Who I Am
+### Who I Am
 
 I'm a developer who doesn’t just write code — I build **AI-powered products** that scale.  
 From **custom eCommerce platforms** to **automated business agents**, I create tools that deliver measurable value.
 
-- 🧠 Thinks like a product owner  
-- 🎯 Codes like an engineer  
-- 🧩 Designs with user needs in mind  
-- 💬 Communicates like a partner, not just a programmer  
+- Thinks like a product owner  
+- Codes like an engineer  
+- Designs with user needs in mind  
+- Communicates like a partner, not just a programmer  
 
 ---
 
 <!-- FEATURED PROJECTS -->
-### 🧠 Smart Platforms I Build
+###  Smart Platforms I Build
 
 | 🛠 Solution | 💡 Description |
 |------------|----------------|
@@ -48,7 +48,7 @@ From **custom eCommerce platforms** to **automated business agents**, I create t
 ---
 
 <!-- TECH STACK -->
-### 🧰 Toolbox
+### Toolbox
 
 **Backend:** Django · Django REST Framework · PostgreSQL  
 **Frontend:** TailwindCSS · HTMX · Alpine.js  
