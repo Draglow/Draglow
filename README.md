@@ -1,56 +1,41 @@
+# Hi, I'm Dereje Amare
 
-<h1 align="center">Hi 👋, I'm Dereje Amare</h1>
-<h3 align="center">Full-Stack Django Developer | AI-Powered Business Solutions Engineer | Ethiopia 🇪🇹</h3>
+**Full-Stack Django Developer | AI-Powered Business Solutions Engineer | Ethiopia**
 
-<p align="center">
-  <a href="https://dra.glow.dev" target="_blank"><strong>🌐 Portfolio Website</strong></a> • 
-  <a href="mailto:devdereje21@gmail.com"><strong>📩 Contact Me</strong></a> • 
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank"><strong>🔗 LinkedIn</strong></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/dereje-amare" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-blue?logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://dereje-portfolio-bcoy.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-green?logo=firefox-browser" alt="Portfolio">
+  </a>
 </p>
 
----
-
-### 🚀 I Build Technology That Solves Real Problems
-
-I specialize in building **Django-powered platforms** that don’t just work — they **drive business results**. From AI-driven business agents and smart website builders to fast e-commerce platforms, I build **scalable, efficient, and profitable digital products**.
+I specialize in building Django-based platforms that solve real business problems — fast, scalable, and user-focused. From AI business agents and website builders to eCommerce platforms and custom dashboards, I turn ideas into production-ready tools.
 
 ---
 
-### 🧠 My Expertise
+## 🚀 What I Do
 
-- 🧩 **Full-Stack Web Development** — Django, DRF, PostgreSQL, HTMX, Tailwind CSS  
-- 🤖 **AI Integration** — Chatbots, Business Agents, Resume Matching, Forecasting  
-- 🌐 **No-Code & Site Builders** — Drag-and-drop tools, templates, CMS-powered systems  
-- 🛠 **Tech Stack** — Python · JavaScript · Docker · REST APIs · Git · Linux  
-
----
-
-### 🔧 What I’m Working On
-
-- 🛒 **AI-powered eCommerce Platform** — Real-time cart, order tracking, Telebirr payments  
-- 🧠 **AI Business Agents** — Sales assistants, data analyzers, customer service bots  
-- 🌍 **No-Code Website Builder** — Generate sites with drag-and-drop + AI content  
-- 🤝 Helping clients launch **smart platforms** that automate and scale their business
+- Build full-stack web apps using Django, DRF, PostgreSQL, TailwindCSS  
+- Integrate AI tools: business agents, chatbots, resume matchers, and data analyzers  
+- Design no-code site builders and CMS-driven platforms  
+- Deliver fast, secure, and scalable SaaS platforms for real-world use
 
 ---
 
-### 📈 GitHub Stats
+## 🔧 Current Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=radical" alt="Streak Stats" width="400"/>
-</p>
-
----
-
-### 💬 Let’s Connect
-
-If you're a **founder, CEO, or team lead** looking to build something impactful, let’s work together.  
-I move fast, think like a product owner, and deliver solutions that fit business goals.
-
-📧 Email: devdereje21@gmail.com  
-🌐 Portfolio: [dra.glow.dev](https://dra.glow.dev)
+- AI-powered eCommerce system with real-time cart and Telebirr integration  
+- Smart business assistant for automated customer engagement and data insights  
+- Website builder platform with drag-and-drop UI and AI-generated content
 
 ---
 
-### 🫱🏽‍🫲🏽 Let’s build the future — one smart app at a time.
+## 📬 Contact Me
+
+- Portfolio: [https://dereje-portfolio-bcoy.onrender.com](https://dereje-portfolio-bcoy.onrender.com)  
+- LinkedIn: [linkedin.com/in/dereje-amare](https://www.linkedin.com/in/dereje-amare)  
+- Email: devdereje21@gmail.com  
+
+Let’s build something impactful together.
