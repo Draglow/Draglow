@@ -40,7 +40,7 @@ You get a developer who builds complete solutions, not pieces of code.
 
 | 🛠 Solution | 💡 Description |
 |------------|----------------|
-| **AI Business Agents** | Chatbot/automation systems that analyze data, qualify leads, and handle clients |
+| **Hospital Management ERP** | Chatbot/automationA full ERP for hospitals. Includes patient records, doctor schedules, billing flows, pharmacy stock control, and admin dashboards.|
 | **Website Builder** | No-code CMS with drag-and-drop UI and AI-generated content |
 | **eCommerce Engine** | Full-stack store system with Telebirr integration, live cart, and smart filter |
 | **Analytics Dashboards** | Custom business dashboards with charting, forecasting, and reporting |
