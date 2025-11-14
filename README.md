@@ -26,10 +26,10 @@
 
 I am a developer who builds products that solve real problems. I ship systems that scale and deliver measurable value for businesses.
 
-• I think like a product owner and focus on outcomes.
-• I code like an engineer and ship clean, maintainable systems.
-• I design with user needs in mind and keep flows simple.
-• I communicate like a partner and align with business goals.
+-I think like a product owner and focus on outcomes.
+-I code like an engineer and ship clean, maintainable systems.
+-I design with user needs in mind and keep flows simple.
+-I communicate like a partner and align with business goals.
 
 You get a developer who builds complete solutions, not pieces of code.
 
