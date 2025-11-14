@@ -24,13 +24,14 @@
 <!-- ABOUT -->
 ### Who I Am
 
-I'm a developer who doesn’t just write code — I build **AI-powered products** that scale.  
-From **custom eCommerce platforms** to **automated business agents**, I create tools that deliver measurable value.
+I am a developer who builds products that solve real problems. I ship systems that scale and deliver measurable value for businesses.
 
-- Thinks like a product owner  
-- Codes like an engineer  
-- Designs with user needs in mind  
-- Communicates like a partner, not just a programmer  
+• I think like a product owner and focus on outcomes.
+• I code like an engineer and ship clean, maintainable systems.
+• I design with user needs in mind and keep flows simple.
+• I communicate like a partner and align with business goals.
+
+You get a developer who builds complete solutions, not pieces of code.
 
 ---
 
@@ -42,7 +43,6 @@ From **custom eCommerce platforms** to **automated business agents**, I create t
 | **AI Business Agents** | Chatbot/automation systems that analyze data, qualify leads, and handle clients |
 | **Website Builder** | No-code CMS with drag-and-drop UI and AI-generated content |
 | **eCommerce Engine** | Full-stack store system with Telebirr integration, live cart, and smart filter |
-| **Recruitment Platform** | Resume parser, screening AI, and auto interview scheduler |
 | **Analytics Dashboards** | Custom business dashboards with charting, forecasting, and reporting |
 
 ---
