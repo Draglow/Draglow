@@ -40,10 +40,10 @@ You get a developer who builds complete solutions, not pieces of code.
 
 | 🛠 Solution | 💡 Description |
 |------------|----------------|
-| **Hospital Management ERP** | Chatbot/automationA full ERP for hospitals. Includes patient records, doctor schedules, billing flows, pharmacy stock control, and admin dashboards.|
-| **Website Builder** | No-code CMS with drag-and-drop UI and AI-generated content |
-| **eCommerce Engine** | Full-stack store system with Telebirr integration, live cart, and smart filter |
-| **Analytics Dashboards** | Custom business dashboards with charting, forecasting, and reporting |
+| **Hospital Management ERP** | A full ERP for hospitals. Includes patient records, doctor schedules, billing flows, pharmacy stock control, and admin dashboards.|
+| **ገበያ eCommerce Platform** | A complete eCommerce system with product listings, cart, checkout, order tracking, and secure backend management. |
+| **Food Ordering Website** | A platform for restaurants. Users browse menus, place orders, and track delivery. Admins manage items, prices, and orders.|
+| **Portfolio Website** | A personal website that shows projects, skills, and contact details with fast loading and responsive UI. |
 
 ---
 
