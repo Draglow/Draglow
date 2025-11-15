@@ -2,7 +2,7 @@
 <div align="center">
 
 <h1>👋 Hi, I'm Dereje Amare</h1>
-<h3>Full-Stack Django Developer • AI-Powered Platform Architect • Problem Solver</h3>
+<h3>Full-Stack Web Developer</h3>
 
 <p><strong>I turn real-world business problems into smart, scalable tech solutions — fast.</strong></p>
 
