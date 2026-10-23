@@ -7,7 +7,7 @@
 <p><strong>I turn real-world business problems into smart, scalable tech solutions — fast.</strong></p>
 
 <!-- CTA BUTTONS -->
-<a href="https://dereje-portfolio-bcoy.onrender.com/" target="_blank">
+<a href="https://devdereje.vercel.app" target="_blank">
   <img alt="Portfolio" src="https://img.shields.io/badge/-Visit Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/dereje-amare" target="_blank">
@@ -76,7 +76,7 @@ Looking for a **developer who delivers like a co-founder**?
 I'm open to partnerships, freelance work, or joining mission-driven teams.
 
 - 📫 **Email:** devdereje21@gmail.com  
-- 🌍 **Website:** [dereje-portfolio-bcoy.onrender.com](https://dereje-portfolio-bcoy.onrender.com)  
+
 - 💼 **LinkedIn:** [linkedin.com/in/dereje-amare](https://linkedin.com/in/dereje-amare)
 
 ---
